@@ -1,5 +1,5 @@
 var sfour = [
-{ ID: 2, Fournisseur: 'TAIF 2025', NTel1: '06.55.69.86.48', NTel2: '05.60.06.63.93', Solde : 370663.21 },
+{ ID: 2, Fournisseur: 'TAIF 2025-2026', NTel1: '06.55.69.86.48', NTel2: '05.60.06.63.93', Solde : 370663.21 },
 { ID: 17, Fournisseur: 'EL MAHATTA', NTel1: '0556.90.30.90', NTel2: '', Solde : 36587 },
 { ID: 1, Fournisseur: 'GALAXY AUOGBA', NTel1: '05.40.21.17.56', NTel2: '', Solde : 16180 },
 { ID: 5, Fournisseur: 'IMPRIMERIE EL_IHSSANE', NTel1: '0665 52 46 54', NTel2: '', Solde : 6130 },
@@ -96,3 +96,4 @@ var scaise = [
 { ID: 12, Compte: 'Sliman', Entree: 0, Sortie: 20000, Solde: -20000 },
 { ID: 13, Compte: 'TRANSPORT', Entree: 0, Sortie: 4700, Solde: -4700 },
 ];
+
